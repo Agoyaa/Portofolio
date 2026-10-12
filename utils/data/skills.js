@@ -1,4 +1,6 @@
 export const skillsData = [
+  'React JS',
+  'JavaScript',
   'HTML',
   'CSS',
   'C++',

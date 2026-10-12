@@ -17,10 +17,10 @@ export const experiences = [
     company: 'PT. Wahana Mutiara Agromedica',
     duration: '(Feb 2024 - Oct 2024)'
   },
-  {
-    id: 4,
-    title: 'Barista & Founder',
-    company: 'Rolling Brew',
-    duration: '(Apr 2024 - Dec 2025)'
-  }
+  // {
+  //   id: 4,
+  //   title: 'Barista & Founder',
+  //   company: 'Rolling Brew',
+  //   duration: '(Apr 2024 - Dec 2025)'
+  // }
 ]
